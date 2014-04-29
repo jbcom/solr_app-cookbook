@@ -2,10 +2,12 @@
 # Cookbook Name:: solr_app
 # Recipe:: default
 #
+# Author:: Jon Bogaty <jon@jonbogaty.com>
 # Author:: Stanislav Bogatyrev <realloc@realloc.spb.ru>
 # Author:: Guilhem Lettron <guilhem.lettron@youscribe.com>
 #
-# Copyright 2013, Societe Publica.
+# Copyright 2014, jonbogaty.com
+# Forked from Works Copyrighted by other authors above
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
